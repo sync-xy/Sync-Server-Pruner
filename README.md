@@ -18,10 +18,8 @@
 - Required Python dependencies
 
 # Installation
-
-
-cd Sync-Server-Pruner
-python main.py
+- `cd Sync-Server-Pruner`
+- `python main.py`
 
 Review the source code and configure the required settings before running the project.
 
